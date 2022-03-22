@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github-readme-stats-kanogithub.vercel.app/api?username=kanogithub" alt="KanoGithub's GitHub stats" width="430px" height="175px"><img src="https://github-readme-stats-kanogithub.vercel.app/api/top-langs/?username=kanogithub&layout=compact" alt="Top Langs" width="400px" height="171px">
 
 <!--
 **kanogithub/kanogithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
